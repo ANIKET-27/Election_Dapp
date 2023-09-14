@@ -20,3 +20,18 @@ More features will come in future.
 | Authorized |
 |:---:|
 <img src=images/votersAuth.png width=200  height = 400 > |
+
+### Election Controlls For Authoriy
+| Candidate/Voters Addition | Candidate List (auth UI) | Voters List (auth UI) |
+|:---:|:---:|:---:|
+<img src=images/add_candidate.png width=200  height = 400 > |<img src=images/beforeVoting.png width=200  height = 400 > |<img src=images/voters_list.png width=200  height = 400 > |
+
+### Voters Authorization
+| No Internet State | Not Registered State | Already Voted State | Success State |
+|:---:|:---:|:---:|:---:|
+<img src=images/conLost.png width=200  height = 400 > |<img src=images/noName.png width=200  height = 400 > |<img src=images/already_voted.png width=200  height = 400 > |<img src=images/voterCan.png width=200  height = 400 > 
+
+### After Voting to Candidate Results are
+ |Updated Voters List auth UI)|Updated Candidate List (auth UI)|
+|:---:|:---:|
+<img src=images/afterVoting.png width=200  height = 400 > |<img src=images/candiAfter.png width=200  height = 400 > |
